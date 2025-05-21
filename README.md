@@ -2,18 +2,18 @@
 
 🎯 **Backend Engineer | Cloud Enthusiast | Java Craftsman**
 
-I'm a backend software developer with 3+ years of hands-on experience building scalable systems using **Java**, **Spring Boot**, and cloud platforms like **AWS** and **GCP**. Passionate about clean architecture, DevOps culture, and learning by building, I love turning complex business logic into robust backend APIs.
+I'm a backend software developer with 3+ years of hands-on experience building scalable systems using **Java**, **Spring Boot**, and cloud platforms like **AWS** and **GCP**. Passionate about clean architecture, and learning by building, I love turning complex business logic into robust backend APIs.
 
 ---
 
 ## 🔧 Tech Stack & Tools
 
-- 💻 Languages: `Java`, `SQL`, `JavaScript (basic)`
-- ⚙️ Frameworks: `Spring Boot`, `Spring Security`, `JWT`, `Hibernate`
+- 💻 Languages: `Java`, `SQL`
+- ⚙️ Frameworks: `Spring Boot`
 - ☁️ Cloud: `AWS (S3, EC2, ALB, Secrets Manager)`, `GCP`
 - 🐳 DevOps: `Docker`, `Kubernetes`
 - 🛢️ Databases: `PostgreSQL`, `Redis`, `MongoDB`
-- 📦 Tools: `Git`, `Postman`, `WireMock`, `Kafka`, `Consul`
+- 📦 Tools: `Git`, `Kafka`
 - 📚 Learning: `German (B1 level)`
 
 ---
