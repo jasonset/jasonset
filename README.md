@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Jason Setiadi 👋
 
-<!--
-**jasonset/jasonset** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Backend Engineer | Cloud Enthusiast | Java Craftsman**
 
-Here are some ideas to get you started:
+I'm a backend software developer with 3+ years of hands-on experience building scalable systems using **Java**, **Spring Boot**, and cloud platforms like **AWS** and **GCP**. Passionate about clean architecture, DevOps culture, and learning by building, I love turning complex business logic into robust backend APIs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tech Stack & Tools
+
+- 💻 Languages: `Java`, `SQL`, `JavaScript (basic)`
+- ⚙️ Frameworks: `Spring Boot`, `Spring Security`, `JWT`, `Hibernate`
+- ☁️ Cloud: `AWS (S3, EC2, ALB, Secrets Manager)`, `GCP`
+- 🐳 DevOps: `Docker`, `Kubernetes`
+- 🛢️ Databases: `PostgreSQL`, `Redis`, `MongoDB`
+- 📦 Tools: `Git`, `Postman`, `WireMock`, `Kafka`, `Consul`
+- 📚 Learning: `German (B1 level)`
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 [Smart Task Manager API](https://github.com/jasonsetiadi/smart-task-manager)
+> A Spring Boot 3 backend REST API for managing tasks intelligently. Includes JWT auth, Dockerized deployment, and AWS S3 integration.
+
+---
+
+## 📈 GitHub Stats
+
+![Jason's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jasonsetiadi&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonsetiadi&layout=compact)
+
+---
+
+## 🤝 Let’s Connect
+
+- 📫 [LinkedIn](https://www.linkedin.com/in/jason-setiadi)
+- ☁️ AWS Certified Developer – Associate  
+- 🇩🇪 Currently learning German (B1) 🇩🇪
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+---
